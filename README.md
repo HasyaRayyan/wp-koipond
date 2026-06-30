@@ -1,2 +1,2 @@
-Wprdpress Company Profile
+Wordpress Company Profile
 
